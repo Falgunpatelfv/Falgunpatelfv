@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Falgunpatelfv
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning about Linux Kernel, Android Rom and Bhagvat Gita - As It Is.
+- 🌱 I’m currently learning about Linux Kernel, Android Rom .
+- I'm Nothing Without Krishna.
 
 <!---
 Falgunpatelfv/Falgunpatelfv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
